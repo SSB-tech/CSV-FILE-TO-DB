@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "/IMAploFVI8cYJoWGYA9ZAoLsC0xVlVqUD8/c2Um6iY=",
+  "Source": "CSV",
+  "BasePath": "_content/CSV",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CSV\\wwwroot",
+      "Source": "CSV",
+      "ContentRoot": "C:\\Users\\basne\\source\\repos\\CSV\\CSV\\wwwroot\\",
+      "BasePath": "_content/CSV",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
